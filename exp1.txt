@@ -1,6 +1,10 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 hello everyone
 
+=======
+gegg
+>>>>>>> Stashed changes
 =======
 gegg
 >>>>>>> Stashed changes
